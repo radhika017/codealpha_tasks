@@ -1,2 +1,2 @@
-# codealpha_tasks
+# number-guessing-game
 "A fun Python number guessing game!"
