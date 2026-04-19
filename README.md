@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-04-19 212916" src="https://github.com/user-attachments/assets/f3bab50e-1b01-44fb-9ad9-8bf4aa05da9c" /># 🎂 Age Calculator Web App
+# 🎂 Age Calculator Web App
 
 A simple and responsive web-based Age Calculator that calculates a user's exact age in years, months, and days using JavaScript.
 
